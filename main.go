@@ -7,6 +7,5 @@ func main() {
 	name := "Gosha"
 	age := 33
 	sex := "male"
-	 = ""
 	fmt.Println(run, name, age, sex)
 }
